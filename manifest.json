@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Quick SM Launcher 1.0",
+  "description": "Chrome extension for Quick Launch of my social media pages",
+  "author": "Rafaela",
+  "version": "1.0.0",
+  "permissions": ["activeTab"],
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Quick SM Launcher"
+  }
+}
