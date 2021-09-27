@@ -5,7 +5,7 @@
   "author": "Rafaela",
   "version": "1.0.0",
   "permissions": ["activeTab"],
-  "content_security_policy": "script-src-elem https://kit.fontawesome.com/9b209cfb68.js; script-src 'self' 'unsafe-eval' https://use.fontawesome.com; object-src 'self'",
+  "content_security_policy": "script-src-elem 'self' https://kit.fontawesome.com/9b209cfb68.js; script-src 'self' 'unsafe-eval' https://use.fontawesome.com; object-src 'self'",
   "icons": {
     "128": "images/icon128.png"
   },
